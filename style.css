@@ -1,0 +1,29 @@
+.buttons {
+	display: flex;
+	flex-direction: column;
+}
+
+.content {
+	display: flex;
+	flex-direction: row;
+}
+
+.button1 {
+	background:#34495e;
+	display: flex;
+}
+
+.button2 {
+	background:#9b59b6;
+	display: flex;
+}
+
+.box {
+	color:white;
+	font-size:24px;
+	text-align:center;
+	width: 100px;
+	height: 100px;
+	align-items: center;
+  justify-content: center;
+}
